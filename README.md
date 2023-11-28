@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+** My name is Motun 
+
+- 🌱 I’m currently at ALX software engineering program
+- I👯 I'm open to colabaration on project
+- 📫 How to reach me: moajirotutu@gmial.com
+
 <!--
 **Motunblue/motunblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
